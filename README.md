@@ -1,16 +1,6 @@
-# Inference Engineering
+# Inference Engineering Roadmap
 
-My journey from software developer to inference engineer.
 
-This repo is a learning log, not a library. Each folder is a stage. Each stage
-follows the same loop:
-
-> **Learn → Build → Measure → Document → Commit**
-
-Notes alone don't count. Every stage should end with something I ran, a number
-I measured, and a short write-up of what the number means.
-
-## Roadmap
 
 ### [01 — Foundations](01-foundations/)
 - [ ] Python
