@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+*.egg-info/
+.env
+
+# models and weights - never commit these
+*.gguf
+*.safetensors
+*.bin
+*.onnx
+*.engine
+models/
+
+# large benchmark artifacts (keep the CSV/JSON summaries)
+*.nsys-rep
+*.qdrep
+traces/
+
+.vscode/
+.idea/
+.DS_Store
